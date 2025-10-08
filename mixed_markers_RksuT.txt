@@ -1,0 +1,8 @@
+This file contains multiple markers for detection testing:
+HAG-KDE.502
+DORDAUTOBA
+cemcina dam sk1
+FHIMDSJARBUS
+fsoft@bimotor.com
+Partial variants: HAG KDE 502, DORDAUT OBA
+Random: BQELQEte6vPzJUmits7xRK3BaIQ4jsUqqkmjWBhjOfcMKPDbe69k4ByGdbA7GSOM
